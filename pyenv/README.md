@@ -1,5 +1,4 @@
 # [pyenv](https://github.com/pyenv/pyenv)
-[TOC]
 ## 1 介绍
 在多Python版本的环境中，使用pyenv可以方便地管理和切换各Python版本。
 通过pyenv-virtualenv插件，可以管理virtualenv环境。
